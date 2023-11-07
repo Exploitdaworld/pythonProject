@@ -1,0 +1,6 @@
+{
+  "password_nginx": "moiz$123",
+  "password_apache": "W3lcome1234",
+  "password_tomcat": "moiz#123",
+  "password_ansible": "moiz@123"
+}

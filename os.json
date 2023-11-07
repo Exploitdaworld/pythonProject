@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Ubuntu",
+    "Version": "22.0",
+    "Install": "apt-get",
+    "Owner": "Debain",
+    "Kernel": "3.10"
+  },
+  {
+    "Name": "CentOs",
+    "Version": "7",
+    "Install": "yum",
+    "Owner": "Redhat",
+    "Kernel": "4.0"
+  }
+]
