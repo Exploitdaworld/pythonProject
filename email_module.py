@@ -1,7 +1,7 @@
 import smtplib
 from email.message import EmailMessage
 mymail='moiz.ahmed223190@gmail.com'
-password='dlxelggzaovshfth'
+password='x-x-x-x-x-x-x'
 connection=smtplib.SMTP('smtp.gmail.com')
 connection.starttls() #Transport Layer security
 
