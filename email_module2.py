@@ -17,7 +17,7 @@ mylogo=r'C:\Users\moiza\PycharmProjects\pythonProject\alnafi-220930-222108.jpg'
 msg=MIMEMultipart()
 
 mymail='moiz.ahmed223190@gmail.com'
-password='dlxelggzaovshfth'
+password='x-x-x-x-x-x-x'
 msg['Subject']=f'Citrix Connection Alert {my_custom} {current_time}'
 msg['From']=mymail
 msg['To']=mymail
